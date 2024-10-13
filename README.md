@@ -3,7 +3,7 @@
 [![PyPI version](https://img.shields.io/pypi/v/tirikchilik)](https://pypi.org/project/tirikchilik/)
 [![Python Versions](https://img.shields.io/pypi/pyversions/tirikchilik.svg)](https://pypi.org/project/tirikchilik/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-![PyPI Downloads](https://img.shields.io/pypi/dm/tirikchilik)
+![Downloads](https://img.shields.io/pypi/dm/tirikchilik)
 <p align="center">
   <a href="https://tirikchilik.uz/araltech">
     <img src="https://camo.githubusercontent.com/ed28339e5a5786534715b1c0c885271437761fc91af84d5dc5bbc2c71e307a02/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f546972696b6368696c696b2d6666646430303f7374796c653d666f722d7468652d6261646765" alt="Donate with Tirikchilik">
