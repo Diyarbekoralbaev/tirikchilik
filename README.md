@@ -1,6 +1,6 @@
 # Tirikchilik
 
-[![PyPI version](https://img.shields.io/pypi/v/)](https://pypi.org/project/tirikchilik/)
+[![PyPI version](https://img.shields.io/pypi/v/tirikchilik)](https://pypi.org/project/tirikchilik/)
 [![Python Versions](https://img.shields.io/pypi/pyversions/tirikchilik.svg)](https://pypi.org/project/tirikchilik/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 ![PyPI Downloads](https://img.shields.io/pypi/dm/tirikchilik)
