@@ -188,7 +188,7 @@ If you like this project, please consider supporting it by making a donation:
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](https://github.com/yourusername/tirikchilik/LICENSE)
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/Diyarbekoralbaev/tirikchilik/LICENSE)
 file for details.
 
 ## Disclaimer
