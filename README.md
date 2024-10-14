@@ -15,6 +15,16 @@ efficient way to create payments, check payment statuses, and handle various pay
 
 **Note:** This is an unofficial API wrapper and is not affiliated with or endorsed by Tirikchilik. Use at your own risk.
 
+## Table of Contents
+1. [Features](#features)
+2. [Installation](#installation)
+3. [Quick Start](#quick-start)
+4. [Advanced Usage](#advanced-usage)
+5. [API Reference](#api-reference)
+6. [Contributing](#contributing)
+7. [Support](#support)
+8. [License](#license)
+
 ## Features
 
 - Easy-to-use interface for creating payments
