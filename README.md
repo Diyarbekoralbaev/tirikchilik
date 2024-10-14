@@ -27,12 +27,12 @@ efficient way to create payments, check payment statuses, and handle various pay
 
 ## Features
 
-- Easy-to-use interface for creating payments
-- Automatic project ID retrieval by project name
-- Robust error handling for various API responses
-- Retry mechanism for failed requests
-- Type hinting for better code completion and error detection
-- Customizable session management
+## Features
+- **Easy-to-use interface**: Simplifies the payment process with minimal configuration.
+- **Automatic project ID retrieval**: No need for manual project ID entry.
+- **Robust error handling**: Custom exceptions for different failure scenarios.
+- **Retry mechanism**: Automatically retries failed payment requests.
+- **Type hinting**: Improves code quality with better auto-completion and error checking.
 
 ## Installation
 
